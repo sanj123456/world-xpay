@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "643305300752",
+    "firebase_url": "https://world-xchange.firebaseio.com",
+    "project_id": "world-xchange",
+    "storage_bucket": "world-xchange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643305300752:android:3d6bda16e34e42ea93bb95",
+        "android_client_info": {
+          "package_name": "com.world.xpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643305300752-c6gn1srii1q66jh7n93j83350fk88s6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1H6A3RvsmPBOoRybYva8c7TY6JEQNUEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643305300752-c6gn1srii1q66jh7n93j83350fk88s6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643305300752-a7gq26qnm367upg016hcsrc3favp9p0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.worldxchange.xpayapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643305300752:android:590625308eb085fc93bb95",
+        "android_client_info": {
+          "package_name": "com.worldxchange.xpayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643305300752-c6gn1srii1q66jh7n93j83350fk88s6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1H6A3RvsmPBOoRybYva8c7TY6JEQNUEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643305300752-c6gn1srii1q66jh7n93j83350fk88s6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643305300752-a7gq26qnm367upg016hcsrc3favp9p0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.worldxchange.xpayapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643305300752:android:dd8b03f2641e298193bb95",
+        "android_client_info": {
+          "package_name": "com.worldxpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643305300752-c6gn1srii1q66jh7n93j83350fk88s6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1H6A3RvsmPBOoRybYva8c7TY6JEQNUEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643305300752-c6gn1srii1q66jh7n93j83350fk88s6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643305300752-a7gq26qnm367upg016hcsrc3favp9p0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.worldxchange.xpayapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
